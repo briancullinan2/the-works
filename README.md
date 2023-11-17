@@ -15,7 +15,7 @@ Unreal engine based life simulations. Like protein folding for all mechanics of 
 
 Each of the above is a metaphor for a larger structure that embodies all of those ideas
 
-* Celestials (vehicles for moving entire universes through plasma fields, cycling back on itself, implementation of rules from multiple religions)
+* Celestials (vehicles for moving entire universes through plasma fields, cycling back on itself, implementation of rules from multiple religions, basis for interstellar diplomacy)
 * Memories (long stories amalgamated from entire life times accessible to nervous decision making through a connection between sensory inputs on nervous)
 * Weather (controls what information should be transported between entire systems, which memories flow between spaces)
 * Nutrients (passing information / experience around between bones willfully)
