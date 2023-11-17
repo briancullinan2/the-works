@@ -1,7 +1,7 @@
 # The Works
 Unreal engine based life simulations. Like protein folding for all mechanics of life on Earth.
 
-## Goals
+## Entities
 * Fields (basic rules for survival and transfer of bytes)
 * Atoms (interactions with fields)
 * Spirits (molecules, tags for specific reactions on data)
@@ -20,3 +20,11 @@ Each of the above is a metaphor for a larger structure that embodies all of thos
 * Weather (controls what information should be transported between entire systems, which memories flow between spaces)
 * Nutrients (passing information / experience around between bones willfully)
 * Attractors (using environmental, architecture, weather and nutrients, to attract more information into the memories, The Great Attractor)
+
+## Goals
+* Saharan desert blowing minerals over to the Amazonian rain forest. Play with different amounts of nutrients and get out different speeds of natural growth. 
+* Use light/shadow annealing techniques to simulate a wave in the ocean and all the little bubbles and fizz
+* (medium) The guilt trip (a story that tries to make the player feel guilty)
+* (hard) What dreams may come (a hell story about trying to find love)
+* (easy) Parlor tricks (a story about turning Jesus' miracles into parlor tricks, also had the idea that Moses' escape from Egypt was assisted by a levi that drowned the soldiers, islamic knights templar)
+* A story that tells how the solar system was shot down by a death ray, trapping Earth and humans in a dark space. This death ray created the grand canyon and canyons on other planets in one shot.
