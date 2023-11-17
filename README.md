@@ -6,7 +6,7 @@ Unreal engine based life simulations. Like protein folding for all mechanics of 
 * Atoms (interactions with fields)
 * Spirits (molecules, tags for specific reactions on data)
 * Bones (animals, people, others)
-* Nervous (connect bones to visual muscular / cardio appearance and brain structures so shocking a nerve can alter the brain structure, like memory management)
+* Nervous (connect bones to visual muscular / cardio appearance and brain structures so shocking a nerve can alter the brain structure, like memory management, muscular systems are implied based on the bones and nervous declarations, nervous controls range of motion through pain/emotional filters)
 * Architectures (generalize building structures)
 * Roads (transport between houses and cities, or even planet size composites)
 * Railways (transport between solars)
