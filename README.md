@@ -25,8 +25,7 @@ Each of the above is a metaphor for a larger structure that embodies all of thos
 * Saharan desert blowing minerals over to the Amazonian rain forest. Play with different amounts of nutrients and get out different speeds of natural growth. 
 * Use light/shadow annealing techniques to simulate a wave in the ocean and all the little bubbles and fizz
 * (medium) The guilt trip (a story that tries to make the player feel guilty)
-* Absolution story, God shows up again as the game player becomes a part of a visual demonstration of the trinity as super intelligent robots sent back in time to cure the entire planet at once. Allow players to figure out what problems to work on from rumors in the media like starvations, disease, etc. Each problem has it's own miniature story where the player feels like they performed miracles in the game.
-* 
 * (hard) What dreams may come (a hell story about trying to find love)
 * (easy) Parlor tricks (a story about turning Jesus' miracles into parlor tricks, also had the idea that Moses' escape from Egypt was assisted by a levi that drowned the soldiers, islamic knights templar)
 * A story that tells how the solar system was shot down by a death ray, trapping Earth and humans in a dark space. This death ray created the grand canyon and canyons on other planets in one shot.
+* Absolution story, God shows up again as the game player becomes a part of a visual demonstration of the trinity as super intelligent robots sent back in time to cure the entire planet at once. Allow players to figure out what problems to work on from rumors in the media like starvations, disease, etc. Each problem has it's own miniature story where the player feels like they performed miracles in the game.
