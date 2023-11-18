@@ -24,6 +24,7 @@ Each of the above is a metaphor for a larger structure that embodies all of thos
 ## Goals
 * Saharan desert blowing minerals over to the Amazonian rain forest. Play with different amounts of nutrients and get out different speeds of natural growth. 
 * Use light/shadow annealing techniques to simulate a wave in the ocean and all the little bubbles and fizz
+* Try to generate a tree / pine tree from simpler algorithms that mimic cellular biology in fewer lines of code than all this science based around it. Obvious rules only.
 * (medium) The guilt trip (a story that tries to make the player feel guilty)
 * (hard) What dreams may come (a hell story about trying to find love)
 * (easy) Parlor tricks (a story about turning Jesus' miracles into parlor tricks, also had the idea that Moses' escape from Egypt was assisted by a levi that drowned the soldiers, islamic knights templar)
