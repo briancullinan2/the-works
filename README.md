@@ -25,7 +25,8 @@ Each of the above is a metaphor for a larger structure that embodies all of thos
 * Saharan desert blowing minerals over to the Amazonian rain forest. Play with different amounts of nutrients and get out different speeds of natural growth. 
 * Use light/shadow annealing techniques to simulate a wave in the ocean and all the little bubbles and fizz
 * Try to generate a tree / pine tree from simpler algorithms that mimic cellular biology in fewer lines of code than all this science based around it. Obvious rules only.
-* The talking stick, a story about a meta verse that eats people and builds colorful kingdoms in the sky based on their thoughts 
+* The talking stick, a story about a meta verse that eats people and builds colorful kingdoms in the sky based on their thoughts
+* Iga's idea, The Broken Tail. a biological weapon called man shoots his load through a black hole known as a woman in an attempt to automatically generate friends. the terrifying monsters that came out for breast feeding consumed every last piece of information with a tentacle tenacity. when if eventually reached the intergalactic shipping business the defense weaponry was shot down. in the midst of needing repairs the ships crew used the loading bay for backup atorage but it was quickly over filled with bad information inherited from thousands of years of scary ghost stories. 🤣
 * (medium) The guilt trip (a story that tries to make the player feel guilty)
 * (hard) What dreams may come (a hell story about trying to find love)
 * (easy) Parlor tricks (a story about turning Jesus' miracles into parlor tricks, also had the idea that Moses' escape from Egypt was assisted by a levi that drowned the soldiers, islamic knights templar)
